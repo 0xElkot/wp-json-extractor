@@ -1,5 +1,10 @@
-# wp-json-extractor
-How to Use it : 
+# wp-json Extractor
+How to install it:
+```
+git clone https://github.com/0xElkot/wp-json-extractor
+```
+
+How to Use it: 
 ```
 usage: wp-json.py [-h] [-u URL] [-f FILE]
 
@@ -10,3 +15,5 @@ options:
   -u URL, --url URL     The URL of the WordPress site
   -f FILE, --file FILE  The file containing a list of URLs of WordPress sites
 ```
+
+https://github.com/0xElkot/wp-json-extractor/assets/58730198/9ae81e6a-7b76-4a21-88bf-ba10c8730914
